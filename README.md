@@ -7,7 +7,7 @@ Sebuah modifikasi (remake) dari original Minecraft client **Argoon**. Client ini
 Pada versi *Remake* ini, terdapat beberapa module eksklusif yang ditambahkan dari versi base Argoon:
 
 - **198m**  
-  Macro auto place Obsidian Dan Crytal dengan presisi tinggi, terinspirasi dari [text](https://198macros.com/) (skid macro, dont use it for tier test).
+  Macro auto place Obsidian Dan Crytal dengan presisi tinggi, terinspirasi dari [198m](https://198macros.com/) (skid macro, dont use it for tier test).
 
 - **Straight DTap**  
   Mirip seperti 198m tapi module ini terdapat menu untuk customisasi delay antara Place dan Break, dan ada juga pilihan Slow Obsidian, Swing Hand, dll (pokoknya lebih bagus dan legit daripada 198m).
