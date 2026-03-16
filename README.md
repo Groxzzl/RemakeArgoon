@@ -1,22 +1,22 @@
 # Remake Argoon Client
 
-Sebuah modifikasi (remake) dari original Minecraft client **Argoon**. Client ini dimodifikasi dan dikembangkan dengan penambahan berbagai module baru yang dirancang untuk memberikan pengalaman bermain yang lebih responsif dan praktis, khususnya untuk keperluan PvP (Player vs Player) dan mekanik survival lanjutan.
+Sebuah modifikasi (remake) dari original Minecraft client **Argoon**. Client ini dimodifikasi dan dikembangkan dengan penambahan berbagai module baru yang dirancang untuk memberikan pengalaman bermain yang lebih responsif dan praktis, khususnya untuk keperluan PvP/Cpvp (Player vs Player) dan mekanik survival lanjutan.
 
 ## 🚀 Fitur dan Module Tambahan
 
 Pada versi *Remake* ini, terdapat beberapa module eksklusif yang ditambahkan dari versi base Argoon:
 
 - **198m**  
-  Module custom khusus yang ditambahkan pada versi ini untuk optimasi pergerakan/interaksi spesifik (sesuaikan dengan implementasi pada source code Anda).
+  Macro auto place Obsidian Dan Crytal dengan presisi tinggi, terinspirasi dari [text](https://198macros.com/) (skid macro, dont use it for tier test).
 
 - **Straight DTap**  
-  Mengotomatiskan atau membantu mekanisme *Double Tap* (W-Tap / S-Tap) secara presisi. Fitur ini sangat berguna dalam PvP untuk me-reset *sprint* dan memaksimalkan *knockback* (KB) yang diberikan kepada lawan secara konsisten.
+  Mirip seperti 198m tapi module ini terdapat menu untuk customisasi delay antara Place dan Break, dan ada juga pilihan Slow Obsidian, Swing Hand, dll (pokoknya lebih bagus dan legit daripada 198m).
 
 - **VLXYTotem**  
-  Sistem *Auto-Totem* tingkat lanjut. Secara otomatis dan cepat akan memindahkan *Totem of Undying* dari inventory ke *off-hand* saat health/darah (HP) pemain menyentuh batas kritis, mencegah kematian tak terduga dalam pertempuran.
+  Sistem auto totem yang mirip seperti Auto Inv Totem, namun dengan tambahan Bypass yang lebih mumpuni untuk melawan AntiCheat" Populer seperti Vulcan dll.
 
 - **Elytra Swap**  
-  Memungkinkan pemain untuk menukar (swap) antara *Chestplate* (Armor Dada) dan *Elytra* secara instan hanya dengan menggunakan *hotkey* atau dalam kondisi tertentu. Sangat berguna untuk transisi cepat dari pertempuran darat ke udara tanpa harus membuka inventory.
+  Memungkinkan pemain untuk menukar (swap) antara *Chestplate*  dan *Elytra* secara instan hanya dengan menggunakan *hotkey* atau dalam kondisi tertentu. Sangat berguna untuk transisi cepat dari pertempuran darat ke udara tanpa harus membuka inventory.
 
 - **Fast Place**  
   Menghapus atau mengurangi *delay* bawaan Minecraft (ticks delay) saat menahan tombol klik kanan. Fitur ini memungkinkan penempatan block yang sangat cepat (*fast bridging*), melempar potion, atau menggunakan item dengan kecepatan tinggi.
@@ -24,15 +24,16 @@ Pada versi *Remake* ini, terdapat beberapa module eksklusif yang ditambahkan dar
 ## ⚙️ Kompatibilitas
 
 - **Minecraft Version:** `1.21.1`
-- **Mod Loader:** (Misalnya: Fabric / Forge - *Silakan sesuaikan jika ada*)
+- **Mod Loader:** Fabric
 
 ## 📦 Cara Instalasi / Setup
 
-1. Unduh rilis terbaru dari [Releases](#) (atau *build* langsung dari source code ini).
+1. Unduh FIle .jar dari repositori ini.
 2. Pastikan Anda sudah menginstal Minecraft versi **1.21.1**.
-3. (Jika menggunakan loader) Instal fabric/forge loader untuk 1.21.1.
-4. Masukkan file `.jar` client ke dalam folder `mods` atau `versions` di dalam direktori instalasi Minecraft Anda (biasanya di `%appdata%\.minecraft`).
-5. Jalankan Minecraft Launcher, pilih profil yang sesuai, lalu tekan **Play**.
+3. Instal fabric loader untuk 1.21.1.
+4. Masukkan file `.jar` client ke dalam folder `mods` di dalam direktori instalasi Minecraft Anda (biasanya di `%appdata%\.minecraft`).
+5. Jalankan Minecraft Launcher.
+6. masuk kedalam server/world lalu tekan Right Shift untuk membuka menu.
 
 ## 📜 Credits
 
@@ -48,3 +49,5 @@ Pada versi *Remake* ini, terdapat beberapa module eksklusif yang ditambahkan dar
 
 ---
 *Dibuat dengan tujuan pembelajaran pengembangan mod/client pada Minecraft.*
+
+-Reffa
