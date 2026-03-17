@@ -47,7 +47,7 @@ Pada versi *Remake* ini, terdapat beberapa module eksklusif yang ditambahkan dar
 - Pengembang repository ini tidak bertanggung jawab atas sanksi, kerugian, atau *ban* yang Anda terima di server pihak ketiga akibat penggunaan client ini.
 - **Gunakan dengan bijak**, dianjurkan hanya untuk server privat (bersama teman), server Anarchy, atau server yang secara eksplisit mengizinkan modifikasi semacam ini.
 
----
+------------------------------------------
 *Dibuat dengan tujuan pembelajaran pengembangan mod/client pada Minecraft.*
 
 -Reffa
